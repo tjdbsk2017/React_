@@ -1,0 +1,36 @@
+react -> 웹어플리케이션
+
+react Native -> 네이티브앱 (아이폰, 안드로이드)
+downloads> npm install -g create-react-app
+npm install -g create-react-native-app
+create-react-app webapp
+create-react-native-app mobileapp
+webapp>src 파일 삭제
+webapp> npm start
+index.js
+webapp> npm start
+
+npm run build
+
+웹 -> node, react (프론트엔드)
+아이폰 -> 맥에서 개발 (xcode, swift, object-c)
+안드로이드 -> 안드로이드 스튜디오 (java)
+
+백엔드 -> restful API
+
+React란?
+
+장점
+1. JSX 문법 -> HTML과 비슷한 문법을 가지고 있다.
+	-XML기반으로 제작
+2. 단방향 데이터 흐름
+3. 컴포넌트 단위 개발
+4. virtual dom
+
+단점
+1. 데이터 흐름의 뎁스가 깊어지면 관리가 힘들어진다.(redux)
+2. 검색엔진에 검색이 되지 않는다. (서버사이드 렌더링)
+3. 러닝커브
+
+react전용 개발자도구
+react developer tools 검색
